@@ -10,6 +10,8 @@ import java.util.Scanner;
  *
  * @author Paul Bonenfant
  */
+
+//fewlljnbjkvfbaerbnvaenaKSRNGvkjnf
 public class ComparableStudent {
 
     /**
